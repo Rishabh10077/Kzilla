@@ -22,6 +22,8 @@ This is a simple website to log workouts, set fitness goals, and track progress 
 - A web browser (Chrome, Brave,edge etc.)
 
 ### Installation
+##Screenshot
+![image](https://github.com/user-attachments/assets/f9f5c399-ffd6-4163-802a-983c4b63145a)
 
 1. Clone the repository:
    ```bash
