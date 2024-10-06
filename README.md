@@ -1,6 +1,6 @@
 # Fitness Tracker
 
-A simple web application to log workouts, set fitness goals, and track progress in real-time. This app helps users to take charge of their fitness journey by providing an easy-to-use interface for logging exercises and calculating calories burned based on workout duration.
+This is a simple website to log workouts, set fitness goals, and track progress in real-time. This app helps users to take charge of their fitness journey by providing an easy-to-use interface for logging exercises and calculating calories burned based on workout duration.
 
 ## Features
 
@@ -19,7 +19,7 @@ A simple web application to log workouts, set fitness goals, and track progress 
 
 ### Prerequisites
 
-- A web browser (Chrome, Firefox, etc.)
+- A web browser (Chrome, Brave,edge etc.)
 
 ### Installation
 
@@ -27,7 +27,7 @@ A simple web application to log workouts, set fitness goals, and track progress 
    ```bash
    git clone # Fitness Tracker
 
-A simple web application to log workouts, set fitness goals, and track progress in real-time. This app helps users to take charge of their fitness journey by providing an easy-to-use interface for logging exercises and calculating calories burned based on workout duration.
+This is a simple website to log workouts, set fitness goals, and track progress in real-time. This app helps users to take charge of their fitness journey by providing an easy-to-use interface for logging exercises and calculating calories burned based on workout duration.
 
 ## Features
 
